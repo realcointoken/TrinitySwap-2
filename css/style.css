@@ -3,7 +3,6 @@ Name: Cryptonio - Bitcoin ICO Cryptocurrency Landing Page HTML Template
 Author: Getnajmul
 Author URI: http://www.ecologytheme.com/theme/cryptonio
 Version: 1.0
-
 ---------- {Index Virsion One } ----------
 01. Header Area
 02. Benefits Area 
@@ -15,7 +14,6 @@ Version: 1.0
 08. Team_membar
 09. Subscribe Area 
 10. Footer Area
-
 ---------- { Home Version two } ----------
 11. Header Section
 12. About Section
@@ -27,7 +25,6 @@ Version: 1.0
 18. Faq area
 19. Subscribe Area
 20. Footer Area
-
 ---------- { Index Virsion Three } ----------
 21. Header Area Style
 22. About Section
@@ -36,9 +33,7 @@ Version: 1.0
 25. ICO news
 26. Faq area
 27. Footer Area
-
 ---------- { Index Virsion Four } ----------
-
 28. Header Section
 29. Earnings Area
 30. About Section
@@ -47,9 +42,7 @@ Version: 1.0
 33. Team
 34. Company
 35. Footer Area
-
 ---------- { Index Virsion Five } ----------
-
 36. Hader Section
 37. Earnings Area
 38. About Section
@@ -61,7 +54,6 @@ Version: 1.0
 44. Company
 45. Faq area
 46. Footer Css
-
 * ---------- { Index Virsion Six } ----------
 47. Hader Section
 48. About Section
@@ -73,12 +65,9 @@ Version: 1.0
 54. Faq area
 55. Subscribe
 56. Footer Css
-
 ----------{  Inner Pages Style Css }----------
 57. Blog Page css  
 58. Blog Post css
-
-
  ============================================================*/
 
 /* ---------{ 01. Default  CSS } ---------- */
@@ -4816,6 +4805,18 @@ select {
 	text-transform: capitalize;
 	font-weight: 600;
 }
+
+#header-06 .cripto_nav .navbar-toggler .token{
+	background: linear-gradient(to left, #f879b6 0%, #9982ed 100%);
+	padding: 9px 25px;
+	border-radius: 50px;
+	font-size: 14px;
+	text-transform: capitalize;
+	font-weight: 600;
+	color: white;
+	margin-left: 20px;
+}
+
 #header-06 .navbar .language .dropdown span i {
 	background: linear-gradient(to left, #9982ed 0%, #f879b6 100%);
 	-webkit-background-clip: text;
