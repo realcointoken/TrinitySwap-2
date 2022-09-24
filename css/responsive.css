@@ -2794,6 +2794,21 @@
 ------------------------------------------------- */
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
+
+	.cripto_nav .language{
+		display: none !important;
+	}
+
+	.cripto_nav .navbar-brand {
+		max-height: 40px !important;
+		max-width: 40vw !important;
+	}
+
+	.cripto_nav .container {
+		margin-top: -30px;
+		margin-bottom: 5px;
+	}
+
 	#companis_supported_01 .companis_supported_logos ul li {
 		width: 35% !important;
 		margin-bottom: 30px;
@@ -2898,6 +2913,37 @@
 ------------------------------------------------- */
 
 @media only screen and (max-width: 480px) {
+
+	.cripto_nav .navbar-brand {
+		max-height: 40px !important;
+		max-width: 25vw !important;
+	}
+
+	.cripto_nav .language{
+		display: none;
+		height: 0px !important;
+	}
+
+	.cripto_nav .container {
+		margin-top: -30px;
+		margin-bottom: 5px;
+	}
+
+	.cripto_nav .language .dropdown{
+		display: none;
+		height: 0px !important;
+	}
+
+	.cripto_nav .language .token{
+		display: none;
+		height: 0px !important;
+	}
+
+	.cripto_nav .language .dropdown-menu{
+		display: none;
+		height: 0px !important;
+	}
+
 	#companis_supported_06 .companis_supported_logos .sub-title {
 		text-align: center;
 	}
@@ -2914,5 +2960,15 @@
 
 	#companis_supported_06 .companis_supported_logos ul li {
 		width: 30%;
+	}
+}
+
+
+/*		Extra Small Layout: < 350px.
+------------------------------------------------- */
+
+@media only screen and (max-width: 350px) {
+	.cripto_nav .navbar-brand {
+		display: none;
 	}
 }

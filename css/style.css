@@ -4816,6 +4816,18 @@ select {
 	text-transform: capitalize;
 	font-weight: 600;
 }
+
+#header-06 .cripto_nav .navbar-toggler .token{
+	background: linear-gradient(to left, #f879b6 0%, #9982ed 100%);
+	padding: 9px 25px;
+	border-radius: 50px;
+	font-size: 14px;
+	text-transform: capitalize;
+	font-weight: 600;
+	color: white;
+	margin-left: 20px;
+}
+
 #header-06 .navbar .language .dropdown span i {
 	background: linear-gradient(to left, #9982ed 0%, #f879b6 100%);
 	-webkit-background-clip: text;
