@@ -44,12 +44,12 @@
     top: 35%;
     left:45%;
 }
-#welcome_cryptonic_06 .bubble1 {
+#welcome_crypto_06 .bubble1 {
     top: 40%;
     left: 15%;
     position: absolute;
 }
-#welcome_cryptonic_06 .bubble2 {
+#welcome_crypto_06 .bubble2 {
     top: 15%;
     right: 11%;
     position: absolute;
@@ -198,14 +198,14 @@
     z-index: 2;
 }
 
-#welcome_cryptonic_06 .about_cryptonic-content a {
+#welcome_crypto_06 .about_cryptonic-content a {
     border: none;
     transition: all 0.3s ease-in-out;
     position: relative;
     overflow: hidden;
     z-index: 1;
 }
-#welcome_cryptonic_06 .about_cryptonic-content a:before {
+#welcome_crypto_06 .about_cryptonic-content a:before {
     position: absolute;
     content: "";
     background: linear-gradient(to left, #f879b6 0%, #9982ed 100%);
@@ -218,7 +218,7 @@
     visibility: hidden;
     transition: all 0.3s ease-in-out;
 }
-#welcome_cryptonic_06 .about_cryptonic-content a:hover:before {
+#welcome_crypto_06 .about_cryptonic-content a:hover:before {
     visibility: visible;
     opacity: 1;
 }
@@ -281,7 +281,7 @@
 
 
 
-#welcome_cryptonic_06 .about_cryptonic-content a, #about_cryptonic_06 .about_cryptonic-content a, #header-01 .intro-text a{
+#welcome_crypto_06 .about_cryptonic-content a, #about_cryptonic_06 .about_cryptonic-content a, #header-01 .intro-text a{
     font-weight: 500;
 }
 #roadmap_06 .location_04 .location_wrapper .location_1, #roadmap_01 .location_04 .location_wrapper .location_1 {
