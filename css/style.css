@@ -5046,7 +5046,7 @@ select {
 	line-height: 30px;
 	color: rgba(255, 255, 255, 0.7);
 }
-#welcome_cryptonic_06 .about_cryptonic-content a {
+.welcome_cryptonic_06 .about_cryptonic-content a {
 	font-size: 18px;
 	text-transform: capitalize;
 	font-weight: 600;
