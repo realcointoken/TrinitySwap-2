@@ -5011,33 +5011,33 @@ select {
 	top: 0;
 	right: 0;
 }
-#welcome_cryptonic_06 {
+.welcome_cryptonic_06 {
 	background: transparent;
 	text-align: center;
 	position: relative;
 	z-index: 3;
 	padding: 0 0 150px;
 }
-#welcome_cryptonic_06 .shape1 {
+.welcome_cryptonic_06 .shape1 {
 	position: absolute;
 	top: 12%;
 	left: 50%;
 	transform: translate(-50%);
 	z-index: -2;
 }
-#welcome_cryptonic_06 .sub-title {
+.welcome_cryptonic_06 .sub-title {
 	margin: 0px auto 50px;
 }
-#welcome_cryptonic_06 .about_cryptonic-content {
+.welcome_cryptonic_06 .about_cryptonic-content {
 	padding: 0 25px;
 }
-#welcome_cryptonic_06 .about_cryptonic-content img {
+.welcome_cryptonic_06 .about_cryptonic-content img {
 	animation-name: spin;
 	animation-duration: 8000ms;
 	animation-iteration-count: infinite;
 	animation-timing-function: linear;
 }
-#welcome_cryptonic_06 .about_cryptonic-content p {
+.welcome_cryptonic_06 .about_cryptonic-content p {
 	padding: 30px 0 0;
 	margin: 0;
 	color: #ffffff;
